@@ -1,0 +1,7 @@
+/* App.css cleared to allow the new index.css to manage all global layout cleanly. */
+#root {
+  width: 100%;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
